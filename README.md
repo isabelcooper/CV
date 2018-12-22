@@ -5,19 +5,19 @@
 
 ## Skills
 
-###Continuous learning
+### Continuous learning
 
 - Built the marketing function from scratch in a SAAS startup: strategy, delivery and detailed tracking.
 - Self-taught Salesforce administration and email automation.
 - Excited to be challenged and continuously learning in a new field.
 
-###Database management
+### Database management
 
 - Single-handedly restructured database to enable effective TAM modelling and measurement.
 - Designed, implemented and monitored tracking across all marketing activities - including all structural changes needed in Salesforce and Marketo plus visualisations in Looker.
 - Training users of various levels to navigate and operate a new system.
 
-###Building an (agile) team
+### Building an (agile) team
 
 - Hired and trained entire marketing function - successfully ensured they/'re good enough not to need me anymore.
 - Managed team of 7 with emphasis on continuous feedback and improvement.
@@ -27,7 +27,7 @@
 - Designed and coded custom email templates with toggles to allow easy-editor usage.
 - Development of prospect and client email programs including fully dynamic and responsive newsletter, client onboarding and event promotion.
 
-##Experience
+## Experience
 
 **Triptease**
 Head of Marketing Operations -  _October 2017 - December 2018_

@@ -31,9 +31,9 @@
 ## <a name = "experience">Experience</a>
 
 **Triptease**
-Head of Marketing Operations -  _October 2017 - December 2018_
-Marketing Manager - _June 2016 - October 2017_
-Marketing Executive - _October 2015 - June 2016_
+Head of Marketing Operations -  _October 2017 - December 2018_ <br />
+Marketing Manager - _June 2016 - October 2017_<br />
+Marketing Executive - _October 2015 - June 2016_<br />
 
 **Aston Martin**
 Events Intern - _July - September 2014_

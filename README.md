@@ -59,7 +59,7 @@
 -------
 ## <a name = "interests">Wider Interests</a>
 
-| Just a few...              |                                                                                                                   | 
+|                            | Just a few...                                                                                                     | 
 | -------------------------- |:------------------------------------------------------------------------------------------------------------------|
 | **Music**                  | DipABRSM Performance Diploma on the flute. I continue to perform in concert with local flute group, Octavia.      |
 | **Languages**              | I like to challenge myself with a little french, italian and just at the moment, I’m learning dutch. It’s particularly cool in how its evolution differs from German!      |

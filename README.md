@@ -2,8 +2,9 @@
 
 **Passionate, result-driven and hungry to learn**
 
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-## Skills
+## <a name "skills">Skills</a>
 
 ### Continuous learning
 
@@ -27,7 +28,7 @@
 - Designed and coded custom email templates with toggles to allow easy-editor usage.
 - Development of prospect and client email programs including fully dynamic and responsive newsletter, client onboarding and event promotion.
 
-## Experience
+## <a name "experience">Experience</a>
 
 **Triptease**
 Head of Marketing Operations -  _October 2017 - December 2018_
@@ -41,7 +42,7 @@ Events Intern - _July - September 2014_
 Salesperson - _October 2013  - July 2014_
 
 
-## Education
+## <a name "education">Education</a>
 
 ### Makers Academy (start_date to end_date)
 
@@ -56,18 +57,17 @@ Salesperson - _October 2013  - July 2014_
 
 
 -------
-## Wider Interests
+## <a name "interests">Wider Interests</a>
 
 **Music**
 - DipABRSM Performance Diploma on the flute.
 - Perform in concert with local flute group, Octavia.
 
 **Languages**
-- I loved living like a local in Germany, so now I  like to challenge myself with a little french, italian and just at the moment, I’m learning dutch. It’s so cool seeing how its evolution differs from German!
+- I loved the speed I could improve my German while living there, so now I  like to challenge myself with a little french, italian and just at the moment, I’m learning dutch. It’s particularly cool in how its evolution differs from German!
 
 **Art**
-- Pencil, watercolour, wool. I fill my home with my own work (and my long-suffering family’s homes too!)
+- Pencil, watercolour, wool. I fill my home with my own work.
 
 **Sport**
-- I’ve dabbled in everything from rugby to korfball.
-- I also love the mountains. I’m happiest when I’ve hiked up somewhere unknown in the alps and share a beer with my friends up there.
+- I’ve dabbled in everything from rugby to korfball, but can't stand gyms.

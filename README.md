@@ -1,50 +1,73 @@
-## Your Name
+## Isabel Cooper
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+**Passionate, result-driven and hungry to learn**
+
 
 ## Skills
 
-#### This Skill
+###Continuous learning
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Built the marketing function from scratch in a SAAS startup: strategy, delivery and detailed tracking.
+- Self-taught Salesforce administration and email automation.
+- Excited to be challenged and continuously learning in a new field.
 
-- Experience
-- Achievements
-- Evidence
+###Database management
 
-#### Another Skill
+- Single-handedly restructured database to enable effective TAM modelling and measurement.
+- Designed, implemented and monitored tracking across all marketing activities - including all structural changes needed in Salesforce and Marketo plus visualisations in Looker.
+- Training users of various levels to navigate and operate a new system.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+###Building an (agile) team
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Hired and trained entire marketing function - successfully ensured they/'re good enough not to need me anymore.
+- Managed team of 7 with emphasis on continuous feedback and improvement.
+- Implemented agile working practices including daily standup, whiteboarding problems, pairing on technical challenges and open communication with other teams.
+
+### Email Automation
+- Designed and coded custom email templates with toggles to allow easy-editor usage.
+- Development of prospect and client email programs including fully dynamic and responsive newsletter, client onboarding and event promotion.
+
+##Experience
+
+**Triptease**
+Head of Marketing Operations -  _October 2017 - December 2018_
+Marketing Manager - _June 2016 - October 2017_
+Marketing Executive - _October 2015 - June 2016_
+
+**Aston Martin**
+Events Intern - _July - September 2014_
+
+**Exotic Fruit and Vegetable Stand, Markthalle, Stuttgart**
+Salesperson - _October 2013  - July 2014_
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+### Makers Academy (start_date to end_date)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- 12 week intensive coding course
+- Pair-programming, Test Driven Development, Object Oriented Design & Agile
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+### New College, University of Oxford
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons Modern Languages (German Sole).
+- First Class Honours with Distinction in spoken German.
 
-#### Any other qualifications
 
-## Experience
+-------
+## Wider Interests
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Music**
+- DipABRSM Performance Diploma on the flute.
+- Perform in concert with local flute group, Octavia.
+
+**Languages**
+- I loved living like a local in Germany, so now I  like to challenge myself with a little french, italian and just at the moment, I’m learning dutch. It’s so cool seeing how its evolution differs from German!
+
+**Art**
+- Pencil, watercolour, wool. I fill my home with my own work (and my long-suffering family’s homes too!)
+
+**Sport**
+- I’ve dabbled in everything from rugby to korfball.
+- I also love the mountains. I’m happiest when I’ve hiked up somewhere unknown in the alps and share a beer with my friends up there.

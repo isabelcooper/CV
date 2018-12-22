@@ -4,7 +4,7 @@
 
 [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-## <a name "skills">Skills</a>
+## <a name ="skills">Skills</a>
 
 ### Continuous learning
 
@@ -28,7 +28,7 @@
 - Designed and coded custom email templates with toggles to allow easy-editor usage.
 - Development of prospect and client email programs including fully dynamic and responsive newsletter, client onboarding and event promotion.
 
-## <a name "experience">Experience</a>
+## <a name = "experience">Experience</a>
 
 **Triptease**
 Head of Marketing Operations -  _October 2017 - December 2018_
@@ -42,7 +42,7 @@ Events Intern - _July - September 2014_
 Salesperson - _October 2013  - July 2014_
 
 
-## <a name "education">Education</a>
+## <a name = "education">Education</a>
 
 ### Makers Academy (start_date to end_date)
 
@@ -57,7 +57,7 @@ Salesperson - _October 2013  - July 2014_
 
 
 -------
-## <a name "interests">Wider Interests</a>
+## <a name = "interests">Wider Interests</a>
 
 **Music**
 - DipABRSM Performance Diploma on the flute.

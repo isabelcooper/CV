@@ -30,11 +30,12 @@
 
 ## <a name = "experience">Experience</a>
 
-###Triptease
-**Head of Marketing Operations** -  _October 2017 - December 2018_ <br />
-**Marketing Manager** - _June 2016 - October 2017_<br />
-**Marketing Executive** - _October 2015 - June 2016_<br />
-###Aston Martin
+### Triptease
+**Head of Marketing Operations** -  _October 2017 - December 2018_
+**Marketing Manager** - _June 2016 - October 2017_
+**Marketing Executive** - _October 2015 - June 2016_
+
+### Aston Martin
 **Events Intern** - _July - September 2014_
 
 ###Exotic Fruit and Vegetable Stand, Markthalle, Stuttgart
@@ -57,6 +58,14 @@
 
 -------
 ## <a name = "interests">Wider Interests</a>
+
+| Name                       | Description                                                                                                       |
+| -------------------------- |:------------------------------------------------------------------------------------------------------------------|
+| **Music**                  | DipABRSM Performance Diploma on the flute. I continue to perform in concert with local flute group, Octavia.      |
+| **Languages**              | I like to challenge myself with a little french, italian and just at the moment, I’m learning dutch. It’s particularly cool in how its evolution differs from German!      |
+| **Art**                  | Pencil, watercolour, wool. I fill my home with my own work.      |
+| **Sport**                  | I’ve dabbled in everything from rugby to korfball, but can't stand gyms.      |
+
 
 **Music** - DipABRSM Performance Diploma on the flute. I continue to perform in concert with local flute group, Octavia.
 
